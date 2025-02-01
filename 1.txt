@@ -1,3 +1,7 @@
 asdasdaasasdas
+<<<<<<< HEAD
 
 asdaas
+=======
+asdasasas
+>>>>>>> side
